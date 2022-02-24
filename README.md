@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kalia</h1>
-<h3 align="center">VIBE✌️ AND HARD WORK🧑🏻‍💻💪🏼</h3>
+<h3 align="center">**VIBE✌️ AND HARD WORK🧑🏻‍💻💪🏼**</h3>
 
-- 🌱 I’m currently exploring **MERN Stack**
+- 🌱 I’m currently exploring **MERN Stack Development**
 
 - 💬 Ask me about **DSA 💻 and Development(Web & Android)🛠**
 
