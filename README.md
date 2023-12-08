@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently exploring **Spring Boot**
 
-- 💬 Ask me about **DSA 💻 and Development(Web & Android)🛠**
+- 💬 Ask me about **DSA 💻 and Backend Development(Java & Spring Boot)🛠**
 
 - 📫 How to reach me **amankalia4074.ak@gmail.com OR aman1407.cse19@chitkara.edu.in**
 
